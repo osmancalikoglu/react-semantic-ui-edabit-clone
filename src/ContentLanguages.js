@@ -4,7 +4,7 @@ import { Container, Grid, Button } from 'semantic-ui-react';
 const ContentLanguages = () => (
   <Container fluid style={{ backgroundColor: 'rgb(45, 184, 75)' }}>
     <Container>
-      <Grid container columns={4}>
+      <Grid stackable container columns={4}>
         <Grid.Column>
           <Button fluid inverted size="huge">
             C#

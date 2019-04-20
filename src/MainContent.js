@@ -3,7 +3,7 @@ import { Container, Grid, Image, Header } from 'semantic-ui-react';
 
 const MainContent = () => (
   <Container>
-    <Grid>
+    <Grid doubling stackable>
       <Grid.Row columns={2}>
         <Grid.Column verticalAlign="middle">
           <Image src="https://s3.amazonaws.com/edabit-images/monster001.png" />

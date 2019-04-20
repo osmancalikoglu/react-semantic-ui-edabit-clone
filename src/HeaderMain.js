@@ -6,7 +6,7 @@ const HeaderMain = () => (
   <>
     <div id="navbarShadow" />
     <Container id="Main">
-      <Grid container>
+      <Grid container stackable padded>
         <Grid.Column width={9} verticalAlign="middle">
           <Header inverted size="huge" as="h1">
             Learn to code with interactive challenges

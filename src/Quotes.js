@@ -3,7 +3,7 @@ import { Container, Grid, Image, Header } from 'semantic-ui-react';
 
 const Quotes = () => (
   <Container>
-    <Grid container columns={3}>
+    <Grid container columns={3} stackable>
       <Grid.Column textAlign="center">
         <Image
           src="https://s3.amazonaws.com/edabit-images/testimonial002.jpg"
