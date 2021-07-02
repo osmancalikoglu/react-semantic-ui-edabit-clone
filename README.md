@@ -1,3 +1,10 @@
+
+## About
+
+This project is a clone of [edabit](https://edabit.com/). You can reach live project [here](https://osmancalikoglu-edabit.netlify.app/)
+
+### `Create-React-App`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
